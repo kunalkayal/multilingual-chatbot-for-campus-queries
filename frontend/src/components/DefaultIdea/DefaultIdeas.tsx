@@ -2,18 +2,18 @@ import DefaultIdea from "./DefaultIdea";
 
 const defaultIdeas = [
   {
-    idea: "Design database schema",
-    moreContext: "Design a database schema for a social media app",
+    idea: "Show upcoming events",
+    moreContext: "Show me upcoming events in MNNIT",
   },
   {
-    idea: "Give me code snippet",
+    idea: "Give me directions to CSED",
     moreContext:
-      "Give me a code snippet to create a database schema for a social media app",
+      "Give me directions to CSED from Ganga Gate",
   },
-  { idea: "Tell me a joke", moreContext: "Tell me a joke" },
+  { idea: "Tell me about MNNIT", moreContext: "Tell me about MNNIT" },
   {
-    idea: "Design redux store",
-    moreContext: " Design a redux store for a social media app",
+    idea: "Eligibility criteria for MNNIT",
+    moreContext: "What is the eligibility criteria for MNNIT?",
   },
 ];
 

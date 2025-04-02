@@ -74,7 +74,7 @@ function App() {
 
             <div className="dark:bg-inherit">
               <UserQuery />
-              <footer className="info text-sm py-2 text-gray-700 dark:text-white text-center">
+              {/* <footer className="info text-sm py-2 text-gray-700 dark:text-white text-center">
                 Made With
                 <span className="mx-2">
                   <i
@@ -91,7 +91,7 @@ function App() {
                 >
                   Prasadbro
                 </a>
-              </footer>
+              </footer> */}
             </div>
           </div>
         </div>
